@@ -1,3 +1,16 @@
+Create New Columns:
+
+<img width="1512" alt="Screenshot 2025-04-14 at 13 58 46" src="https://github.com/user-attachments/assets/85159469-1f36-4146-bc52-bae9d0caf059" />
+
+Create New Cards With Title and Description:
+
+<img width="1511" alt="Screenshot 2025-04-14 at 13 59 21" src="https://github.com/user-attachments/assets/f976234d-ccfe-416f-8841-741c400fe7c5" />
+
+Move Cards Between Columns (Drag and Drops):
+
+<img width="1505" alt="Screenshot 2025-04-14 at 14 01 40" src="https://github.com/user-attachments/assets/a1705360-04cd-45f9-a725-be0ead917bc6" />
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
