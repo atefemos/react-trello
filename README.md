@@ -10,6 +10,8 @@ Move Cards Between Columns (Drag and Drops):
 
 <img width="1505" alt="Screenshot 2025-04-14 at 14 01 40" src="https://github.com/user-attachments/assets/a1705360-04cd-45f9-a725-be0ead917bc6" />
 
+<img width="1511" alt="Screenshot 2025-04-14 at 14 07 41" src="https://github.com/user-attachments/assets/959956d2-ff36-4ab6-ae59-abda04b5caf6" />
+
 
 # Getting Started with Create React App
 
